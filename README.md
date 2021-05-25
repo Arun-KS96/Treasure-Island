@@ -50,4 +50,4 @@ else:
 
 ## Output
 
-![](/images/11.3.png)
+![](/11.3.png)
